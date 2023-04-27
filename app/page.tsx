@@ -8,8 +8,8 @@ export const metadata = {
 export default function Home() {
   return (
     <main>
-      <h1>Home page </h1>
-      <Link href="/users">Users</Link>
+      {/* <h1>Home page </h1>
+      <Link href="/users">Users</Link> */}
     </main>
   )
 }
